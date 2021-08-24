@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/best-github-repos/static/css/main.dc8232db.chunk.css",
+    "main.js": "/best-github-repos/static/js/main.25f0bbf6.chunk.js",
+    "main.js.map": "/best-github-repos/static/js/main.25f0bbf6.chunk.js.map",
+    "runtime-main.js": "/best-github-repos/static/js/runtime-main.30a1ad72.js",
+    "runtime-main.js.map": "/best-github-repos/static/js/runtime-main.30a1ad72.js.map",
+    "static/js/2.4e26a742.chunk.js": "/best-github-repos/static/js/2.4e26a742.chunk.js",
+    "static/js/2.4e26a742.chunk.js.map": "/best-github-repos/static/js/2.4e26a742.chunk.js.map",
+    "static/js/3.4e6c0945.chunk.js": "/best-github-repos/static/js/3.4e6c0945.chunk.js",
+    "static/js/3.4e6c0945.chunk.js.map": "/best-github-repos/static/js/3.4e6c0945.chunk.js.map",
+    "index.html": "/best-github-repos/index.html",
+    "static/css/main.dc8232db.chunk.css.map": "/best-github-repos/static/css/main.dc8232db.chunk.css.map",
+    "static/js/2.4e26a742.chunk.js.LICENSE.txt": "/best-github-repos/static/js/2.4e26a742.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30a1ad72.js",
+    "static/js/2.4e26a742.chunk.js",
+    "static/css/main.dc8232db.chunk.css",
+    "static/js/main.25f0bbf6.chunk.js"
+  ]
+}
